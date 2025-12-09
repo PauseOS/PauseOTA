@@ -1,12 +1,12 @@
 {
   "device": "shiba",
-  "build_id": "lineage-20251101",
-  "version": "2025.11.01",
-  "published_at": "2025-11-01T12:00:00Z",
+  "build_id": "lineage-20251209",
+  "version": "2025.12.09",
+  "published_at": "2025-12-09T16:53:00Z",
   "full": {
-    "url": "https://github.com/PauseOS/PauseOTA/releases/download/20211127/lineage_shiba-ota.zip",
-    "sha256": "sha256:0e6511848815601016a49b566c1b050296b3344d253d015beafb5bf80b2ab659",
-    "size": 1309999694
+    "url": "https://github.com/PauseOS/PauseOTA/releases/download/251209/lineage_shiba-ota.zip",
+    "sha256": "sha256:50b58866e532ad03cd99600e67733d147b912f74bbb5645e5404c38737aaa73e",
+    "size": 1310002282
   },
   "incremental": {}
 }
