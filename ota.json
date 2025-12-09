@@ -5,7 +5,7 @@
   "published_at": "2025-12-09T16:53:00Z",
   "full": {
     "url": "https://github.com/PauseOS/PauseOTA/releases/download/251209/lineage_shiba-ota.zip",
-    "sha256": "sha256:50b58866e532ad03cd99600e67733d147b912f74bbb5645e5404c38737aaa73e",
+    "sha256": "50b58866e532ad03cd99600e67733d147b912f74bbb5645e5404c38737aaa73e",
     "size": 1310002282
   },
   "incremental": {}
